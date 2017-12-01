@@ -18,14 +18,6 @@
 </P>
 </h1>
 
-
-
-<P>
-<Align="center"> 
-[<a href="vlog.htm"> Мой Влог </a>]
-</Align>
-</P>
-
 <h1 align="center"> Обо мне: </h1>
 <h1 align="center"> Текст о влоге </h1>
 
