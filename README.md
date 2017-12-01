@@ -21,4 +21,4 @@
 <h1 align="center"> Обо мне: </h1>
 <h1 align="center"> Текст о влоге </h1>
 
-
+<h3 align="center"> Создатель:С.Гарик </h3>
