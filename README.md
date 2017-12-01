@@ -1,6 +1,6 @@
 <html>
 <head>
-<title> Истории Садового </title>
+
 <body>
 
 <h1>
