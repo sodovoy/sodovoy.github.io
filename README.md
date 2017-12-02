@@ -1,6 +1,4 @@
 <html>
-<head>
-
 <body background="123.jpg">
 
 <h1>
@@ -29,7 +27,8 @@
 </h2>
 
 
-
+</body>
+</html>
 
 
 
