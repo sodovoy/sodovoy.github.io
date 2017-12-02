@@ -4,6 +4,10 @@
 <body background="123.jpg">
 
 <h1>
+<a href="scoro.html"> Скоро </a> &nbsp
+</h1>
+
+<h1>
 <P align="center"> <A HREF="https://vk.com/d.sadovoy99"> Я в Vk </a>
 </P>
 </h1>
