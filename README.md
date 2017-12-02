@@ -20,7 +20,7 @@
 
 
 <h2>
-[<a href="audio.htm"> Музыка </a>] &nbsp
+<a href="audio.htm"> Музыка </a> &nbsp
 </h2>
 
 <h1 align="center"> Обо мне: </h1>
