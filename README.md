@@ -19,10 +19,6 @@
 </h2>
 
 
-<h2>
-<a href="audio.htm"> Музыка </a> &nbsp
-</h2>
-
 <h1 align="center"> Обо мне: </h1>
 <h2 align="center"> Тут  на верно будет текст </h1>
 
