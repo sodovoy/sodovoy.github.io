@@ -4,7 +4,8 @@
 <body background="123.jpg">
 
 <h1>
-<align="center"> <a href="scoro.html"> Скоро </a> &nbsp
+<P align="center"> <a href="scoro.html"> Скоро </a> &nbsp
+</P>
 </h1>
 
 <h1>
